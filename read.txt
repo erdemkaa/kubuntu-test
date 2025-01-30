@@ -2,3 +2,5 @@
 test
 linux
 t480s
+deneme linux
+
