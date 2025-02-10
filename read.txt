@@ -2,6 +2,5 @@
 test
 linux
 t480s
-deneme linux
-bugun
+subat 10
 
